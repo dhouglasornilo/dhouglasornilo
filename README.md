@@ -28,5 +28,3 @@ I'm a student at Labenu FullStack Web Developer.
 I Love the technology world, animals, football, Jiu-Jitsu and fitness world
 
 Father of Ully 🐶, Bob 🐶, Zoe 🐺 and Alfredo 🐱 ❤️
-
-teste
