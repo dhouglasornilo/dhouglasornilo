@@ -31,4 +31,4 @@ I'm a Front-End Web Developer and student at Labenu FullStack Web Developer.
 
 I Love the technology world, animals, football, Jiu-Jitsu and fitness world
 
-Father of Ully 🐶, Bob 🐶, Zoe 🐺 and Alfredo 🐱 ❤️
+Father of Bob 🐶, Zoe 🐺 and Alfredo 🐱 ❤️
