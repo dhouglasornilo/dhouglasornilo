@@ -27,7 +27,7 @@
 ## Little about me
 
 I'm 27 years old, Brazilian and have a degree in Environmental Engineering. Currently in a career transition to technology world.<br>
-I'm a student at Labenu FullStack Web Developer.
+I'm a Front-End Web Developer and student at Labenu FullStack Web Developer.
 
 I Love the technology world, animals, football, Jiu-Jitsu and fitness world
 
